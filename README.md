@@ -1,43 +1,23 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>paginarafaelsouza</title>
-    <link rel="stylesheet" href="./style.css">
-</head>
+Olá, meu nome é Rafael Souza, tenho 26 anos e sou apaixonado por tecnologia e desenvolvimento. Atualmente, estou atuando como Desenvolvedor Júnior na área de Programação Front-End, com experiência nas principais tecnologias de desenvolvimento web, como HTML, CSS e JavaScript.
 
-<body>
-    
-    <div id="container">
-        
-        <div id="profile"><img src="./assets/Avatar.png" alt="foto rafael bonitao">
-        <p>Rafael Souza </p></div>
-        
-   
-    <ul>
-        <li><a href="https://www.linkedin.com/feed/" target="_blank">Linkedin </a></h1></li>
-        <li><a href="https://github.com/"target="_blank">Github</a></li>
-        <li><a href="#" target="_blank">Quem sou eu</a></li>
-        <li><a href="https://www.instagram.com/rafaelsouzaag/" target="_blank">Me siga no instagram</a></li>
-    </ul>
-    <div id="social-links">
-    <a href="https://github.com/NOOBSARAFA" target="blank">
-      <ion-icon name="logo-github"></ion-icon></a>
-      <a href="https://www.linkedin.com/in/rafael-aguiar-3583752a8/" target="blank">
-      <ion-icon name="logo-linkedin"></ion-icon></a>
-       <a href="https://www.instagram.com/rafaelsouzaag/" target="blank">
-      <ion-icon name="logo-instagram"></ion-icon></a>
-      <a href="https://www.facebook.com/RafaelCamposHinode/" target="blank">
-      <ion-icon name="logo-facebook"></ion-icon>
-      </a>
-        
-    </div>
-        <footer>Feito Com muito carinho <ion-icon name="heart"></ion-icon></footer>    
-        
-    </div>
-    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-    
-</body>
-</html>
+Tenho me dedicado constantemente a aprimorar minhas habilidades e a aprender novas técnicas que possam otimizar o desenvolvimento de interfaces e melhorar a experiência do usuário. Sou uma pessoa comunicativa, focada em resultados e sempre em busca de novos desafios que me permitam evoluir como profissional.
+
+No meu trabalho, busco sempre aplicar boas práticas de desenvolvimento, como a criação de layouts responsivos, a utilização de metodologias ágeis e o foco na otimização do código para garantir a melhor performance possível.
+
+Estou em constante aprendizado e tenho o objetivo de continuar me aprofundando em frameworks como React, Vue.js e outras ferramentas do ecossistema front-end, além de buscar mais conhecimentos em UI/UX para criar interfaces cada vez mais amigáveis e acessíveis.
+
+Competências técnicas:
+
+HTML5
+
+CSS3 (compreensão de Flexbox e Grid)
+
+JavaScript (ES6+)
+
+Responsividade e Design Adaptativo
+
+Git/GitHub
+
+Estou sempre aberto a novas oportunidades de aprendizado e a colaborar em projetos desafiadores que me ajudem a crescer ainda mais na área.
+
+
